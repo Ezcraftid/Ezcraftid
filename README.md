@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezcraftid&label=Profile%20views&color=0e75b6&style=flat" alt="ezcraftid" /> </p>
 
-- 🌱 I’m currently learning **Fullstack development**
+- 🌱 I’m currently learning **Anything that can be learned and is useful!**
 
 - 📫 How to reach me **mailme@deni26.my.id**
 
